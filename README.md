@@ -1,4 +1,4 @@
-# AnimalFaceClassifier🐶🐱🐹 
+# AnimalFace-Classifier🐶🐱🐹 
 
 ## 📌 프로젝트 개요
 본 프로젝트는 **머신러닝 모델을 이용하여 얼굴 이미지를 분석하고, 닮은 동물 상(고양이, 햄스터, 강아지)을 분류하는 Android 애플리케이션**입니다.  
