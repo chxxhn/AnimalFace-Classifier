@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">termproject1</string>
+    <string name="image_view_desc">This is an image view</string>
+</resources>
